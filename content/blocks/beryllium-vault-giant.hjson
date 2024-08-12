@@ -1,0 +1,13 @@
+type: StorageBlock
+size: 3
+scaledHealth: 40
+name: Beryllium Vault Giant
+description: Beryllium is item
+itemCapacity: 1000
+category: effect
+research: reinforced-vault
+requirements: [
+  beryllium/90
+]
+squareSprite: false
+researchCostMultiplier: 0.5
